@@ -1,0 +1,9 @@
+ENUNCIADO:
+Um dos membros do IMEsec deixou o computador aberto com um e-mail criptografado e sabemos que tem uma senha importante lá. Encontramos também alguns programas que podem te ajudar.
+
+ANEXOS:
+email_criptografado
+substitution-cipher-toolkit/
+
+FLAG:
+CTF{ALANTURINGEHHACKER}
